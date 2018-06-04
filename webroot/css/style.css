@@ -1,0 +1,32 @@
+footer {
+    margin-top: 100px;
+    color: white;
+    background: #484848;
+}
+
+.main-navbar {
+    background: #212121;
+}
+
+.search-movie {
+    background: #484848;
+}
+
+.tmdb-logo {
+    width: 300px;
+}
+
+.profile-logo {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 0.9em;
+    font-weight: 600;
+    border-radius: 50%;
+    background: royalblue;
+}
