@@ -3,11 +3,10 @@ Creating my own framework
 
 ## Description
 
-Made for understanding how frameworks work.
+Made for understanding frameworks.
 
-* Models
-* Controllers
-* Views
+* OOP
+* MVC
 * Template Engine
 * ORM
 * ...
